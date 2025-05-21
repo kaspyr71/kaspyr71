@@ -14,7 +14,7 @@
 **🚀 Modern Exploration (2020-Present)**  
 - 📱 Created Android apps during COVID with MIT App Inventor  
 - 🏠 **Smart Home Passion**:  
-  🔌 ESP32 firmware and esphome • 🏡 Home Assistant • 🐍 MicroPython automation  
+  🔌 ESP32 firmware and ESPHome • 🏡 Home Assistant • 🐍 MicroPython automation  
 - 🎓 Formalizing skills at **SoftUni**: Python Basics and Fundamentals → Future: Django & AI  
 
 **🌱 Core Philosophy**  
